@@ -201,6 +201,7 @@
     "id": 12,
     "scientificName": "Luciobarbus comizo",
     "family": "Cyprinidae",
+    "illustrationName": "species_barbo_comizo",
     "names": {
       "es": "Barbo Comizo",
       "en": "Comizo Barbel",
@@ -218,11 +219,18 @@
     "id": 13,
     "scientificName": "Luciobarbus graellsii",
     "family": "Cyprinidae",
+    "illustrationName": "species_barbo_graellsii",
     "names": {
       "es": "Barbo de Montaña",
       "en": "Graells Barbel",
       "fr": "Barbeau de Graells",
       "de": "Graells-Barbe"
+    },
+    "descriptions": {
+      "es": "Especie endémica de la cuenca del Ebro.",
+      "en": "Endemic species of the Ebro basin.",
+      "fr": "Espèce endémique du bassin de l'Èbre.",
+      "de": "Endemische Art des Ebro-Beckens."
     }
   },
   {
@@ -265,88 +273,144 @@
     "id": 16,
     "scientificName": "Pseudochondrostoma polylepis",
     "family": "Cyprinidae",
+    "illustrationName": "species_pseudochondrostoma_polylepis",
     "names": {
       "es": "Boga de Río",
       "en": "Iberian Nase",
       "fr": "Nase Ibérique",
       "de": "Iberische Nase"
+    },
+    "descriptions": {
+      "es": "Pez gregario de fondo.",
+      "en": "Gregarious bottom fish.",
+      "fr": "Poisson de fond grégaire.",
+      "de": "Geselliger Grundfisch."
     }
   },
   {
     "id": 17,
     "scientificName": "Parachondrostoma miegii",
     "family": "Cyprinidae",
+    "illustrationName": "species_parachondrostoma_miegii",
     "names": {
       "es": "Madrilla",
       "en": "South European Roach",
       "fr": "Hotu du Sud",
       "de": "Südeuropäische Plötze"
+    },
+    "descriptions": {
+      "es": "Muy común en el norte de España.",
+      "en": "Very common in northern Spain.",
+      "fr": "Très commun dans le nord de l'Espagne.",
+      "de": "Sehr verbreitet in Nordspanien."
     }
   },
   {
     "id": 18,
     "scientificName": "Alburnus alburnus",
     "family": "Cyprinidae",
+    "illustrationName": "species_alburnus_alburnus",
     "names": {
       "es": "Alburno",
       "en": "Bleak",
       "fr": "Ablette",
       "de": "Ukelei"
+    },
+    "descriptions": {
+      "es": "Pez pasto muy prolífico.",
+      "en": "Very prolific forage fish.",
+      "fr": "Poisson fourrage très prolifique.",
+      "de": "Sehr produktiver Futterfisch."
     }
   },
   {
     "id": 19,
     "scientificName": "Carassius carassius",
     "family": "Cyprinidae",
+    "illustrationName": "species_carassius_carassius",
     "names": {
       "es": "Carpín",
       "en": "Crucian Carp",
       "fr": "Carassin commun",
       "de": "Karausche"
+    },
+    "descriptions": {
+      "es": "Pariente resistente de la carpa.",
+      "en": "Resistant relative of the carp.",
+      "fr": "Parent résistant de la carpe.",
+      "de": "Widerstandsfähiger Verwandter des Karpfens."
     }
   },
   {
     "id": 20,
     "scientificName": "Ameiurus melas",
     "family": "Ictaluridae",
+    "illustrationName": "species_ameiurus_melas",
     "names": {
       "es": "Pez Gato",
       "en": "Black Bullhead",
       "fr": "Poisson-chat",
       "de": "Schwarzer Katzenwels"
+    },
+    "descriptions": {
+      "es": "Especie invasora adaptable.",
+      "en": "Adaptable invasive species.",
+      "fr": "Espèce envahissante adaptable.",
+      "de": "Anpassungsfähige invasive Art."
     }
   },
   {
     "id": 21,
     "scientificName": "Anguilla anguilla",
     "family": "Anguillidae",
+    "illustrationName": "species_anguilla_anguilla",
     "names": {
       "es": "Anguila Europea",
       "en": "European Eel",
       "fr": "Anguille d'Europe",
       "de": "Europäischer Aal"
+    },
+    "descriptions": {
+      "es": "Viajera incansable de los océanos.",
+      "en": "Tireless traveler of the oceans.",
+      "fr": "Voyageuse infatigable des océans.",
+      "de": "Unermüdliche Reisende der Ozeane."
     }
   },
   {
     "id": 200,
     "scientificName": "Procambarus clarkii",
     "family": "Cambaridae",
+    "illustrationName": "species_procambarus_clarkii",
     "names": {
       "es": "Cangrejo Rojo",
       "en": "Red Swamp Crayfish",
       "fr": "Écrevisse de Louisiane",
       "de": "Roter Amerikanischer Sumpfkrebs"
+    },
+    "descriptions": {
+      "es": "Invasive de origen americano.",
+      "en": "Invasive species of American origin.",
+      "fr": "Espèce envahissante d'origine américaine.",
+      "de": "Invasive Art amerikanischen Ursprungs."
     }
   },
   {
     "id": 201,
     "scientificName": "Pacifastacus leniusculus",
     "family": "Astacidae",
+    "illustrationName": "species_pacifastacus_leniusculus",
     "names": {
       "es": "Cangrejo de Señal",
       "en": "Signal Crayfish",
       "fr": "Écrevisse signal",
       "de": "Signalkrebs"
+    },
+    "descriptions": {
+      "es": "Cangrejo con mancha blanca en pinzas.",
+      "en": "Crayfish with white spots on claws.",
+      "fr": "Écrevisse avec des taches blanches sur les pinces.",
+      "de": "Krebs mit weißen Flecken auf den Scheren."
     }
   }
 ]
