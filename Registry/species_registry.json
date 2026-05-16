@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "scientificName": "Salmo trutta",
+    "family": "Salmonidae",
+    "illustrationName": "species_brown_trout",
+    "names": {
+      "es": "Trucha Común",
+      "en": "Brown Trout",
+      "fr": "Truite Fario",
+      "de": "Bachforelle"
+    },
+    "descriptions": {
+      "es": "La reina de nuestros ríos.",
+      "en": "The queen of our rivers.",
+      "fr": "La reine de nos rivières.",
+      "de": "Die Königin unserer Flüsse."
+    }
+  },
+  {
+    "id": 2,
+    "scientificName": "Salmo salar",
+    "family": "Salmonidae",
+    "illustrationName": "species_atlantic_salmon",
+    "names": {
+      "es": "Salmón Atlántico",
+      "en": "Atlantic Salmon",
+      "fr": "Saumon Atlantique",
+      "de": "Atlantischer Lachs"
+    },
+    "descriptions": {
+      "es": "El Rey de la cornisa cantábrica.",
+      "en": "The King of the Cantabrian coast.",
+      "fr": "Le Roi de la côte Cantabrique.",
+      "de": "Der König der kantabrischen Küste."
+    }
+  },
+  {
+    "id": 3,
+    "scientificName": "Oncorhynchus mykiss",
+    "family": "Salmonidae",
+    "illustrationName": "species_rainbow_trout",
+    "names": {
+      "es": "Trucha Arcoíris",
+      "en": "Rainbow Trout",
+      "fr": "Truite Arc-en-ciel",
+      "de": "Regenbogenforelle"
+    },
+    "descriptions": {
+      "es": "Combativa y acrobática.",
+      "en": "Combative and acrobatic.",
+      "fr": "Combative et acrobatique.",
+      "de": "Kampfbereit und akrobatisch."
+    }
+  },
+  {
+    "id": 4,
+    "scientificName": "Hucho hucho",
+    "family": "Salmonidae",
+    "illustrationName": "species_huchen",
+    "names": {
+      "es": "Hucho (Salmón del Danubio)",
+      "en": "Huchen",
+      "fr": "Huchon",
+      "de": "Huchen"
+    },
+    "descriptions": {
+      "es": "El gigante del Tormes.",
+      "en": "The giant of the Tormes river.",
+      "fr": "Le géant de la rivière Tormes.",
+      "de": "Der Riese des Tormes-Flusses."
+    }
+  },
+  {
+    "id": 5,
+    "scientificName": "Salvelinus fontinalis",
+    "family": "Salmonidae",
+    "illustrationName": "species_brook_trout",
+    "names": {
+      "es": "Salvelino",
+      "en": "Brook Trout",
+      "fr": "Omble de fontaine",
+      "de": "Bachsaibling"
+    },
+    "descriptions": {
+      "es": "Joyita de alta montaña.",
+      "en": "High mountain jewel.",
+      "fr": "Petit bijou de haute montagne.",
+      "de": "Juwel des Hochgebirges."
+    }
+  },
+  {
+    "id": 6,
+    "scientificName": "Micropterus salmoides",
+    "family": "Centrarchidae",
+    "illustrationName": "species_black_bass",
+    "names": {
+      "es": "Black Bass",
+      "en": "Largemouth Bass",
+      "fr": "Achigan à grande bouche",
+      "de": "Forellenbarsch"
+    },
+    "descriptions": {
+      "es": "El rey de los embalses.",
+      "en": "The king of reservoirs.",
+      "fr": "Le roi des réservoirs.",
+      "de": "Der König der Stauseen."
+    }
+  },
+  {
+    "id": 7,
+    "scientificName": "Esox lucius",
+    "family": "Esocidae",
+    "illustrationName": "species_northern_pike",
+    "names": {
+      "es": "Lucio",
+      "en": "Northern Pike",
+      "fr": "Grand brochet",
+      "de": "Hecht"
+    },
+    "descriptions": {
+      "es": "El tiburón de agua dulce.",
+      "en": "The freshwater shark.",
+      "fr": "Le requin d'eau douce.",
+      "de": "Der Süßwasserhai."
+    }
+  },
+  {
+    "id": 8,
+    "scientificName": "Sander lucioperca",
+    "family": "Percidae",
+    "illustrationName": "species_zander",
+    "names": {
+      "es": "Lucioperca",
+      "en": "Zander",
+      "fr": "Sandre",
+      "de": "Zander"
+    },
+    "descriptions": {
+      "es": "El fantasma de las profundidades.",
+      "en": "The ghost of the depths.",
+      "fr": "Le fantôme des profondeurs.",
+      "de": "Der Geist der Tiefe."
+    }
+  },
+  {
+    "id": 9,
+    "scientificName": "Silurus glanis",
+    "family": "Siluridae",
+    "illustrationName": "species_wels_catfish",
+    "names": {
+      "es": "Siluro",
+      "en": "Wels Catfish",
+      "fr": "Silure glane",
+      "de": "Wels"
+    },
+    "descriptions": {
+      "es": "El coloso de nuestros ríos.",
+      "en": "The colossus of our rivers.",
+      "fr": "Le colosse de nos rivières.",
+      "de": "Der Koloss unserer Flüsse."
+    }
+  },
+  {
+    "id": 10,
+    "scientificName": "Perca fluviatilis",
+    "family": "Percidae",
+    "illustrationName": "species_european_perch",
+    "names": {
+      "es": "Perca Europea",
+      "en": "European Perch",
+      "fr": "Perche commune",
+      "de": "Flussbarsch"
+    },
+    "descriptions": {
+      "es": "Depredador rayado muy deportivo.",
+      "en": "Very sporty striped predator.",
+      "fr": "Prédateur rayé très combatif.",
+      "de": "Sehr sportlicher gestreifter Räuber."
+    }
+  },
+  {
+    "id": 11,
+    "scientificName": "Luciobarbus bocagei",
+    "family": "Cyprinidae",
+    "illustrationName": "species_barbel",
+    "names": {
+      "es": "Barbo Ibérico",
+      "en": "Iberian Barbel",
+      "fr": "Barbeau Ibérique",
+      "de": "Iberische Barbe"
+    },
+    "descriptions": {
+      "es": "Luchador incansable.",
+      "en": "Tireless fighter.",
+      "fr": "Combattant infatigable.",
+      "de": "Unermüdlicher Kämpfer."
+    }
+  },
+  {
+    "id": 12,
+    "scientificName": "Luciobarbus comizo",
+    "family": "Cyprinidae",
+    "names": {
+      "es": "Barbo Comizo",
+      "en": "Comizo Barbel",
+      "fr": "Barbeau Comizo",
+      "de": "Comizo-Barbe"
+    },
+    "descriptions": {
+      "es": "El barbo de mayor tamaño.",
+      "en": "The largest barbel species.",
+      "fr": "La plus grande espèce de barbeau.",
+      "de": "Die größte Barbenart."
+    }
+  },
+  {
+    "id": 13,
+    "scientificName": "Luciobarbus graellsii",
+    "family": "Cyprinidae",
+    "names": {
+      "es": "Barbo de Montaña",
+      "en": "Graells Barbel",
+      "fr": "Barbeau de Graells",
+      "de": "Graells-Barbe"
+    }
+  },
+  {
+    "id": 14,
+    "scientificName": "Cyprinus carpio",
+    "family": "Cyprinidae",
+    "illustrationName": "species_common_carp",
+    "names": {
+      "es": "Carpa Común",
+      "en": "Common Carp",
+      "fr": "Carpe commune",
+      "de": "Karpfen"
+    },
+    "descriptions": {
+      "es": "El gigante resiliente.",
+      "en": "The resilient giant.",
+      "fr": "Le géant résilient.",
+      "de": "Der widerstandsfähige Riese."
+    }
+  },
+  {
+    "id": 15,
+    "scientificName": "Tinca tinca",
+    "family": "Cyprinidae",
+    "illustrationName": "species_tench",
+    "names": {
+      "es": "Tenca",
+      "en": "Tench",
+      "fr": "Tanche",
+      "de": "Schleie"
+    },
+    "descriptions": {
+      "es": "El pez doctor.",
+      "en": "The doctor fish.",
+      "fr": "Le poisson docteur.",
+      "de": "Der Doktorfisch."
+    }
+  },
+  {
+    "id": 16,
+    "scientificName": "Pseudochondrostoma polylepis",
+    "family": "Cyprinidae",
+    "names": {
+      "es": "Boga de Río",
+      "en": "Iberian Nase",
+      "fr": "Nase Ibérique",
+      "de": "Iberische Nase"
+    }
+  },
+  {
+    "id": 17,
+    "scientificName": "Parachondrostoma miegii",
+    "family": "Cyprinidae",
+    "names": {
+      "es": "Madrilla",
+      "en": "South European Roach",
+      "fr": "Hotu du Sud",
+      "de": "Südeuropäische Plötze"
+    }
+  },
+  {
+    "id": 18,
+    "scientificName": "Alburnus alburnus",
+    "family": "Cyprinidae",
+    "names": {
+      "es": "Alburno",
+      "en": "Bleak",
+      "fr": "Ablette",
+      "de": "Ukelei"
+    }
+  },
+  {
+    "id": 19,
+    "scientificName": "Carassius carassius",
+    "family": "Cyprinidae",
+    "names": {
+      "es": "Carpín",
+      "en": "Crucian Carp",
+      "fr": "Carassin commun",
+      "de": "Karausche"
+    }
+  },
+  {
+    "id": 20,
+    "scientificName": "Ameiurus melas",
+    "family": "Ictaluridae",
+    "names": {
+      "es": "Pez Gato",
+      "en": "Black Bullhead",
+      "fr": "Poisson-chat",
+      "de": "Schwarzer Katzenwels"
+    }
+  },
+  {
+    "id": 21,
+    "scientificName": "Anguilla anguilla",
+    "family": "Anguillidae",
+    "names": {
+      "es": "Anguila Europea",
+      "en": "European Eel",
+      "fr": "Anguille d'Europe",
+      "de": "Europäischer Aal"
+    }
+  },
+  {
+    "id": 200,
+    "scientificName": "Procambarus clarkii",
+    "family": "Cambaridae",
+    "names": {
+      "es": "Cangrejo Rojo",
+      "en": "Red Swamp Crayfish",
+      "fr": "Écrevisse de Louisiane",
+      "de": "Roter Amerikanischer Sumpfkrebs"
+    }
+  },
+  {
+    "id": 201,
+    "scientificName": "Pacifastacus leniusculus",
+    "family": "Astacidae",
+    "names": {
+      "es": "Cangrejo de Señal",
+      "en": "Signal Crayfish",
+      "fr": "Écrevisse signal",
+      "de": "Signalkrebs"
+    }
+  }
+]
