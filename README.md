@@ -1,6 +1,6 @@
-# Pescorium Biological Registry
+# Orbiscator Biological Registry
 
-This repository serves as the centralized source of truth for the biological data used in the **Pescorium** application. 
+This repository serves as the centralized source of truth for the biological data used in the **Orbiscator** application. 
 
 By managing these resources here, we ensure that species information, translations, and illustrations can be updated independently of the application code.
 
